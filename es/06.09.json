@@ -5,6 +5,7 @@
       "sections": [
         {
           "name": "Cinemática",
+          "interest": "cinco",
           "complexity": "promedio",
           "interest": "estupendo",
           "bool": "cierto"
